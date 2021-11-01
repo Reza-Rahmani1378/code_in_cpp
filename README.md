@@ -7,7 +7,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 3. [Variables](./3.variables)
 4. [Data Types](./4.data_type)
 5. [Working With Strings](./5.working_with_strings)
-6. [Working With Numbers](#6)
+6. [Working With Numbers](./6.work_with_numbers)
 7. [Getting User Input](#7)
 8. [Building a Calculator](#8)
 9. [Building a Mad Libs](#9)

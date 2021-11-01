@@ -2,11 +2,11 @@
 A personal practice to cover programming fundamentals based on [this](https://www.youtube.com/watch?v=vLnPwxZdW4Y) tutorial
 
 ## Table of Contents
-1. [Setup & Hello World](./1.setp_and_hello_world/main.cpp)
-2. [Drawing a Shape](./2.drawing_a_shape/main.cpp)
-3. [Variables](./3.variables/main.cpp)
-4. [Data Types](./4.data_type/main.cpp)
-5. [Working With Strings](#5)
+1. [Setup & Hello World](./1.setp_and_hello_world)
+2. [Drawing a Shape](./2.drawing_a_shape)
+3. [Variables](./3.variables)
+4. [Data Types](./4.data_type)
+5. [Working With Strings](./5.working_with_strings)
 6. [Working With Numbers](#6)
 7. [Getting User Input](#7)
 8. [Building a Calculator](#8)

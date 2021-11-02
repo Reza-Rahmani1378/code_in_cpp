@@ -11,7 +11,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 7. [Getting User Input](./7.get_user_input)
 8. [Building a Calculator](./8.bulding_a_calculator)
 9. [Building a Mad Libs](./9.building_a_mad_libs_game)
-10. [Arrays](#10)
+10. [Arrays](./10.arrays)
 11. [Functions](#11)
 12. [Return Statement](#12)
 13. [If Statements](#13)

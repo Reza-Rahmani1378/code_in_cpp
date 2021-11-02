@@ -14,7 +14,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 10. [Arrays](./10.arrays)
 11. [Functions](./11.function)
 12. [Return Statement](./12.return_statement)
-13. [If Statements](#13)
+13. [If Statements](./13.if_statement)
 14. [If Statements (con't)](#14)
 15. [Building a Better Calculator](#15)
 16. [Switch Statements](#16)

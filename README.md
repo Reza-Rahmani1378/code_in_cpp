@@ -17,7 +17,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 13. [If Statements](./13.if_statement)
 14. [If Statements (comparisons)](./14.more_if_statements)
 15. [Building a Better Calculator](./15.building_a_better_caclulator)
-16. [Switch Statements](#16)
+16. [Switch Statements](./16.switch_statement)
 17. [While Loops](#17)
 18. [Building a Guessing Game](#18)
 19. [For Loops](#19)

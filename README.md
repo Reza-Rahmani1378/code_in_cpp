@@ -29,4 +29,4 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 25. [Constructor Functions](./25.constructor_function)
 26. [Object Functions](./26.object_functions)
 27. [Getters & Setters](./27.getter_and_setter)
-28. [Inheritance](#28)
+28. [Inheritance](./28.inheritance)

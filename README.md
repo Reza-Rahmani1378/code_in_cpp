@@ -27,6 +27,6 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 23. [Pointers](./23.pointers)
 24. [Classes & Objects](./24.classes_and_objects)
 25. [Constructor Functions](./25.constructor_function)
-26. [Object Functions](#26)
+26. [Object Functions](./26.object_functions)
 27. [Getters & Setters](#27)
 28. [Inheritance](#28)

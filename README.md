@@ -23,7 +23,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 19. [For Loops](./19.for_loops)
 20. [Exponent Function](./20.exponent_function)
 21. [2d Arrays & Nested Loops](./21.2d_array_and_nested_for_loops)
-22. [Comments](#22)
+22. [Comments](./22.comments)
 23. [Pointers](#23)
 24. [Classes & Objects](#24)
 25. [Constructor Functions](#25)

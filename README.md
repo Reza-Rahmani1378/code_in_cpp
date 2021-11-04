@@ -20,7 +20,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 16. [Switch Statements](./16.switch_statement)
 17. [While Loops](./17.while_loop)
 18. [Building a Guessing Game](./18.building_a_gussing_game)
-19. [For Loops](#19)
+19. [For Loops](./19.for_loops)
 20. [Exponent Function](#20)
 21. [2d Arrays & Nested Loops](#21)
 22. [Comments](#22)

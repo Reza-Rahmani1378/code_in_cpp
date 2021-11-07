@@ -22,12 +22,12 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 - [X] Abstract Data Type
 - [X] Encapsulation
 - [X] Inheritance
-- [ ] Pointers
-- [ ] Polymorphism
-- [ ] C++ and OOP Programming
-- [ ] The Standard Templates Library
-- [ ] Vectors in the Standard Template Library
-- [ ] Data Structures and Object-Oriented Programming
+- [X] Pointers [Note 1](https://www.geeksforgeeks.org/pointers-vs-references-cpp/), [Note 2](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)
+- [X] Polymorphism [Note 1](https://www.geeksforgeeks.org/virtual-function-cpp/) ,[Note 2](https://www.geeksforgeeks.org/polymorphism-in-c/)
+- [X] C++ and OOP Programming [Note 1](https://www.tutorialspoint.com/cplusplus/cpp_friend_functions.htm), [Note 2](https://www.section.io/engineering-education/introduction-to-friend-functions-in-c++/)
+- [X] The Standard Templates Library
+- [X] Vectors in the Standard Template Library
+- [X] Data Structures and Object-Oriented Programming
 - [ ] Case Study: Random Access File 
 ### 2. Complexity Analysis <a name="complexity_analysis"></a>
 - [ ] Computational and Asymptotic Complexity

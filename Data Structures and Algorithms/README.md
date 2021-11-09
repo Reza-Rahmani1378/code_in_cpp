@@ -28,7 +28,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 - [X] The Standard Templates Library
 - [X] Vectors in the Standard Template Library
 - [X] Data Structures and Object-Oriented Programming
-- [ ] Case Study: Random Access File 
+- [X] Case Study: Random Access File 
 ### 2. Complexity Analysis <a name="complexity_analysis"></a>
 - [ ] Computational and Asymptotic Complexity
 - [ ] Big-O Notation

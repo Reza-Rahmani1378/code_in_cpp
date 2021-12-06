@@ -30,16 +30,16 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 - [X] Data Structures and Object-Oriented Programming
 - [X] Case Study: Random Access File 
 ### 2. Complexity Analysis <a name="complexity_analysis"></a>
-- [ ] Computational and Asymptotic Complexity
-- [ ] Big-O Notation
-- [ ] Properties of Big-O Notation
-- [ ] Ω and Θ Notations
-- [ ] Possible Problems
-- [ ] Examples of Complexities
-- [ ] Finding Asymptotic Complexity: Examples
-- [ ] The Best, Average, and Worst Cases
-- [ ] Amortized Complexity
-- [ ] NP-Completeness
+- [X] Computational and Asymptotic Complexity
+- [X] Big-O Notation
+- [X] Properties of Big-O Notation
+- [X] Ω and Θ Notations
+- [X] Possible Problems
+- [X] Examples of Complexities
+- [X] Finding Asymptotic Complexity: Examples
+- [X] The Best, Average, and Worst Cases
+- [X] Amortized Complexity
+- [X] NP-Completeness
 ### 3. Linked Lists  <a name="linked_lists"></a>
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists

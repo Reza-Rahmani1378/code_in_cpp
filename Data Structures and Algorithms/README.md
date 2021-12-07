@@ -41,7 +41,7 @@ A personal practice to cover programming fundamentals based on [this](https://ww
 - [X] Amortized Complexity
 - [X] NP-Completeness
 ### 3. Linked Lists  <a name="linked_lists"></a>
-- [ ] Singly Linked Lists
+- [X] Singly Linked Lists
 - [ ] Doubly Linked Lists
 - [ ] Circular Lists
 - [ ] Skip Lists
